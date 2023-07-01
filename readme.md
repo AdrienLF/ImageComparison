@@ -11,7 +11,7 @@ CompareImages is a command-line tool that allows you to compare images using var
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/yourusername/compare-images.git
+git clone git@github.com:AdrienLF/ImageComparison.git
 cd compare-images
 ```
 2. Install the required dependencies:
